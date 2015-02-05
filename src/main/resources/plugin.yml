@@ -1,0 +1,6 @@
+name: NameHistory
+author: LaxWasHere
+version: 0.1
+main: net.awesomepowered.namehistory.NameHistory
+commands:
+    nh:
